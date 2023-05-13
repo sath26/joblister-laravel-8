@@ -59,7 +59,18 @@
     </div>
   </div>
 </footer>
+@push('scripts')
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XYE54G8Q8J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-XYE54G8Q8J');
+</script>
+
+@endpush
 @push('css')
 <style>
   .footer-main{
