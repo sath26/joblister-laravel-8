@@ -48,9 +48,9 @@
              <!-- <a href="tel:98400001511" class="footer-links"><i class="fas fa-mobile"></i> +977-9840003200</a> -->
              <a href="mailto:info@Jobspati.com" class="footer-links"><i class="fas fa-envelope"></i> hr@jobspati.com</a>
              <div class="social-links">
-               <a href="https://www.facebook.com/jobspati26"   target="_blank" class="social-link"><i class="fab fa-facebook"></i></a>
                <a href="https://www.instagram.com/jobspati"  target="_blank" class="social-link"><i class="fab fa-instagram"></i></a>
                <a href="https://www.linkedin.com/company/jobspati/"   target="_blank" class="social-link"><i class="fab fa-linkedin" ></i></a>
+               <a href="https://www.facebook.com/jobspati26"   target="_blank" class="social-link"><i class="fab fa-facebook"></i></a>
              </div>
             </div>
           </div>
